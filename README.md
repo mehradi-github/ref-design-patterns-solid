@@ -19,3 +19,17 @@ Design patterns are reusable solutions to common problems that arise in software
 - Facade
 - Flyweight
 - Proxy
+
+## Behavioral Design Patterns
+
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
