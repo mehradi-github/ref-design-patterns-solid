@@ -9,3 +9,13 @@ Design patterns are reusable solutions to common problems that arise in software
 - Builder
 - Factory Method
 - Prototype
+
+## Structural Design Patterns
+
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
