@@ -6,6 +6,7 @@
     - [Extends/Inherits](#extendsinherits)
     - [Implements](#implements)
     - [Aggregats](#aggregats)
+    - [Composition](#composition)
 
 ## UML relations
 
@@ -32,3 +33,9 @@ Car implements ICar.
 ![Aggregats](images/4.png)
 
 Library aggregats Book.
+
+### Composition
+
+![Composition](images/5.png)
+
+Aeroplane is composed of Wings.
