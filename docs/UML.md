@@ -7,6 +7,7 @@
     - [Implements](#implements)
     - [Aggregats](#aggregats)
     - [Composition](#composition)
+    - [Pseudocode Annotation](#pseudocode-annotation)
 
 ## UML relations
 
@@ -39,3 +40,9 @@ Library aggregats Book.
 ![Composition](images/5.png)
 
 Aeroplane is composed of Wings.
+
+### Pseudocode Annotation
+
+![Pseudocode Annotation](images/6.png)
+
+pseudocode is a plain language description of the steps in an algorithm and used to portray a concept without needing to write long lines of code.
