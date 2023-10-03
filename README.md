@@ -10,7 +10,7 @@ Design patterns are reusable solutions to common problems that arise in software
 
 ## What is UML?
 
-[UML](https://www.uml.org/what-is-uml.htm), short for Unified Modeling Language, is a standardized modeling language consisting of an integrated set of diagrams, developed to help system and software developers for specifying, visualizing, constructing, and documenting the artifacts of software systems, as well as for business modeling and other non-software systems.
+[UML](docs/UML.md), short for Unified Modeling Language, is a standardized modeling language consisting of an integrated set of diagrams, developed to help system and software developers for specifying, visualizing, constructing, and documenting the artifacts of software systems, as well as for business modeling and other non-software systems.
 
 ## Creational Design Pattern
 
