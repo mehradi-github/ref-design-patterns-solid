@@ -5,6 +5,7 @@
     - [Directed Association](#directed-association)
     - [Extends/Inherits](#extendsinherits)
     - [Implements](#implements)
+    - [Aggregats](#aggregats)
 
 ## UML relations
 
@@ -25,3 +26,9 @@ Fancy car extends Car.
 ![Implements](images/3.png)
 
 Car implements ICar.
+
+### Aggregats
+
+![Aggregats](images/4.png)
+
+Library aggregats Book.
