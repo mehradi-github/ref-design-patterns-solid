@@ -5,7 +5,7 @@
     - [Directed Association](#directed-association)
     - [Extends/Inherits](#extendsinherits)
     - [Implements](#implements)
-    - [Aggregats](#aggregats)
+    - [Aggregates](#aggregates)
     - [Composition](#composition)
     - [Pseudocode Annotation](#pseudocode-annotation)
 
@@ -29,11 +29,11 @@ Fancy car extends Car.
 
 Car implements ICar.
 
-### Aggregats
+### Aggregates
 
 ![Aggregats](images/4.png)
 
-Library aggregats Book.
+Library aggregates Book.
 
 ### Composition
 
